@@ -83,3 +83,23 @@ h3{
 .riga-azzurra{
     background-color: turquoise;
 }
+.immagine-footer{
+    display: block;
+}
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    margin-top: 25px;
+}
+.testo-immagine{
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+}
+.graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    margin-top: 25px;
+}
