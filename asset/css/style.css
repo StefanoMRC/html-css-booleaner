@@ -65,13 +65,14 @@ h3{
     width: 100%;
     height: 30px;
     font-size: 25px;
-    margin: 0;
+
 }
 .colonna{
     width: 25%;
     background-color: #6495ed;
     text-align: left;
     color: white;
+
     
 }
 .colonna1{
@@ -79,9 +80,11 @@ h3{
     background-color: #6495ed;
     text-align: left;
     color: white;
+    
 }
 .riga-azzurra{
     background-color: turquoise;
+
 }
 .immagine-footer{
     display: block;
