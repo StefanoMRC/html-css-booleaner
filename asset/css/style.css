@@ -47,3 +47,17 @@ h3{
     width: 48%;
     height: 400px;
 }
+.descrizione-foto{
+    font-size: 12px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+.paragrafo{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.punti{
+    margin-left: 20px;
+
+}
