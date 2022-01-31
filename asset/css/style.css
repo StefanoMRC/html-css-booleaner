@@ -16,3 +16,34 @@
     margin-top: 110px;
     margin-left: 10%;
 }
+.container{
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-right: 10%;
+}
+h1{
+    font-size: 60px;
+}
+h3{
+    display: inline;
+}
+.testo1{
+    color: rgba(0, 0, 0, 0.5);
+}
+.testo2{
+    color: rgb(108, 200, 236);
+}
+
+.tim{
+   margin left: 100%;
+   margin right: 100%;
+   
+}
+.foto1{
+    width: 51%;
+    height: 400px;
+}
+.foto2{
+    width: 48%;
+    height: 400px;
+}
